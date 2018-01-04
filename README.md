@@ -10,9 +10,7 @@ Manage multiple Emacs configurations with ease.
 
 [![asciicast](https://asciinema.org/a/23286.png)](https://asciinema.org/a/23286)
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/byV416KewAU8F6vFA7h132x2/SShrike/confmacs'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/byV416KewAU8F6vFA7h132x2/SShrike/confmacs.svg' />
-</a>
+
 
 ## Installation
 If you are on Arch Linux there is a
